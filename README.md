@@ -9,7 +9,6 @@
 - 🤝 Looking for help with **Scalable Backend Systems**
 - 👨‍💻 All of my projects are available at: **[Projects](https://github.com/Manthann-05?tab=repositories)**
 - 💬 Ask me about **C++, Java, MERN Stack, Spring Boot, Python**
-- 📫 Reach me at **kadumanthan05@gmail.com**
 - 📄 Resume: **[Resume](https://drive.google.com/file/d/1piogClbvgol7ekcIw6IG0xPQL_r-i01c/view)**
 - ⚡ Fun fact: I enjoy solving competitive programming problems more than watching movies
 
