@@ -120,8 +120,8 @@ I'm a **Computer Science & Business Systems student** focused on building modern
 ## 📈 GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manthann-05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manthann-05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://manthan-readme-stats.vercel.app/api?username=Manthann-05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://manthan-readme-stats.vercel.app/api/top-langs/?username=Manthann-05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -133,7 +133,7 @@ I'm a **Computer Science & Business Systems student** focused on building modern
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manthann-05&theme=tokyo-night&bg_color=1a1b27&hide_border=true&custom_title=My%20Contribution%20Graph" width="95%" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/0e75b6/Manthann-05" alt="Manthan's Github Contribution Chart" width="95%" />
 </p>
 
 ---
